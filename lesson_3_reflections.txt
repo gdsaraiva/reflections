@@ -1,4 +1,4 @@
-When would you want to create a remote repository rather than keeping all your work local? 
+﻿When would you want to create a remote repository rather than keeping all your work local? 
 |
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 R.
@@ -6,6 +6,8 @@ R.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 |
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+R.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
