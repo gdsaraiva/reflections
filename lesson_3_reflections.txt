@@ -12,6 +12,8 @@ R.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 |
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+R.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
