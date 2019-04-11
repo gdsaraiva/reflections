@@ -30,4 +30,8 @@ R.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 |
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+R.
+
+Have a great job! :D
 
