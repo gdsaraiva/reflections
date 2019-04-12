@@ -34,4 +34,6 @@ Quando você gostaria de fazer alterações em um branch separado, e não direta
 R.
 
 Have a great job! :D
+|
+Tenha um ótimo trabalho! :D
 
