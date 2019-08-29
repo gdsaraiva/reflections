@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main()
 {
+   char a = 'Saraiva is a engineer!'
    // printf() displays the string inside quotation
    printf("Hello, World!");
+   printf("A frase: %s", a);
    return 0;
 }
